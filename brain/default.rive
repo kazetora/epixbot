@@ -1,0 +1,18 @@
+! version = 2.0
+
++ halo
+- halo juga
+
++ woi
+- Nape gan?
+
++ (siapa|apa) (lo|elu|kamu|ente)
+- Saya epixbot
+- Nama saya epixbot
+- Ane epixbot gan
+- Gue epixbot
+
++ *
+- Sori gan, ane masih bego nih.
+- Mohon maaf, saya tidak mengerti.
+- Ampun gan, ganti pertanyaan please.
